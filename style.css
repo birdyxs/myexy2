@@ -45,7 +45,7 @@ canvas {
 	background: url("https://hagall-media.de/cp/clouds.png") repeat-x;
 	background-size: cover;
 	animation: moveClouds 200s linear infinite;
-	backdrop-filter: saturate(200%);
+	backdrop-filter: saturate(100%);
 	mix-blend-mode: plus-lighter;
 }
 
